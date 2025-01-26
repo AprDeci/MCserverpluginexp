@@ -35,7 +35,8 @@ export default defineConfig(withSidebar({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/aprdeci' },
-      { icon: 'wordpress', link: 'https://www.aprdec.top'}
+      { icon: 'wordpress', link: 'https://www.aprdec.top'},
+      { icon: 'minetest', link: 'http://mcmap.126386.xyz:8880' },
     ],
     search:{
       provider: 'local'

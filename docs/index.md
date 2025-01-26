@@ -3,6 +3,7 @@
 layout: home
 
 hero:
+  image: /mc.png
   name: "MC server plugin exp"
   text: "一些给小白的开服经验"
   actions:
