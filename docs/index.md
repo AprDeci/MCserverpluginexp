@@ -4,22 +4,20 @@ layout: home
 
 hero:
   name: "MC server plugin exp"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "一些给小白的开服经验"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 开始查看
+      link: /引言
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 开发中
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 开发中
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 开发中
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

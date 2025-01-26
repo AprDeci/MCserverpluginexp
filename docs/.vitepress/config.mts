@@ -35,7 +35,7 @@ export default defineConfig(withSidebar({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/aprdeci' },
-      { icon: 'github', link: 'https://www.aprdec.top'}
+      { icon: 'wordpress', link: 'https://www.aprdec.top'}
     ],
     search:{
       provider: 'local'
